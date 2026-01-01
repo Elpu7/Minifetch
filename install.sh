@@ -6,7 +6,7 @@ BINARY_NAME="minifetch"
 
 # Check if the script is run as root
 if [ "$EUID" -ne 0 ]; then 
-  echo "Error: Please run as root (sudo ./install_minifetch.sh)"
+  echo "Error: Please run as root (sudo ./install.sh)"
   exit 1
 fi
 
