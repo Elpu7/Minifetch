@@ -2,7 +2,7 @@
 
 VERSION="1.1.0"
 INSTALL_PATH="/usr/local/bin/minifetch"
-REPO_RAW_BASE="https://raw.githubusercontent.com/Elpu7/minifetch/main/install.sh"
+REPO_RAW_BASE="https://raw.githubusercontent.com/Elpu7/minifetch/main"
 
 RESET="\e[0m"
 BOLD="\e[1m"
